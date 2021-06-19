@@ -3,7 +3,7 @@ Repository for studying ML
 ## Repository description  
 * [wine project](https://github.com/anioki/ML_training_projects#wine-project "wine-project")  
 * [mashroom project](https://github.com/anioki/ML_training_projects#mashroom-project "mashroom project")  
-* [mashroom project](https://github.com/anioki/ML_training_projects#mashroom-project "mashroom project") 
+* [fish project](https://github.com/anioki/ML_training_projects#mashroom-project "fish project") 
 ## Projects description 
 ### Wine project  
 Structure of project:  
@@ -31,5 +31,7 @@ Fish project
 The goal was to build CNN for predicting fish and compare the results.  
 Best CPU result:  
 ![image](https://user-images.githubusercontent.com/77074682/122646459-eae8ff00-d127-11eb-932b-82f918a67b95.png)  
-![image](https://user-images.githubusercontent.com/77074682/122646484-05bb7380-d128-11eb-84a8-973bbc243cd1.png)
-
+![image](https://user-images.githubusercontent.com/77074682/122646484-05bb7380-d128-11eb-84a8-973bbc243cd1.png)  
+Best GPU result: 
+![image](https://user-images.githubusercontent.com/77074682/122647115-47015280-d12b-11eb-8f9c-d0832de39ae1.png)  
+![image](https://user-images.githubusercontent.com/77074682/122647124-52ed1480-d12b-11eb-9d8b-e9b2b92a681e.png)  
