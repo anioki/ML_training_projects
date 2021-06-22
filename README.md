@@ -1,8 +1,8 @@
 # ML_training_projects
 Repository for studying ML
 ## Repository description  
-* [fish project](https://github.com/anioki/ML_training_projects#fish-project "fish project") 
-* [avocado project](https://github.com/anioki/ML_training_projects#avocado-project "avocado-project") 
+* [fish project](https://github.com/anioki/ML_training_projects#fish-project "fish project") (picture analythe) 
+* [avocado project](https://github.com/anioki/ML_training_projects#avocado-project "avocado-project")  
 * [wine project](https://github.com/anioki/ML_training_projects#wine-project "wine-project")  
 * [mashroom project](https://github.com/anioki/ML_training_projects#mashroom-project "mashroom project")  
 ## Projects description 
