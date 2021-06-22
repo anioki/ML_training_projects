@@ -26,7 +26,7 @@ Structure of project:
 spam 
      ├── spam.ipynb                                  - code for machine learning 
 ```` 
-The goal was to build model for predicting spam or ham.  
+Database contains text and classification. The goal was to build model for predicting spam or ham and learn steps for text analythe.  
 ### Avocado project  
 Structure of project:  
 ```` 
