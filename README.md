@@ -2,6 +2,7 @@
 Repository for studying ML
 ## Repository description  
 * [fish project](https://github.com/anioki/ML_training_projects#fish-project "fish project") (picture analythe) 
+* [spam project](https://github.com/anioki/ML_training_projects#spam-project "spam-project") (text analythe)
 * [avocado project](https://github.com/anioki/ML_training_projects#avocado-project "avocado-project")  
 * [wine project](https://github.com/anioki/ML_training_projects#wine-project "wine-project")  
 * [mashroom project](https://github.com/anioki/ML_training_projects#mashroom-project "mashroom project")  
@@ -19,6 +20,13 @@ Best CPU result:
 Best GPU result: 
 ![image](https://user-images.githubusercontent.com/77074682/122647115-47015280-d12b-11eb-8f9c-d0832de39ae1.png)  
 ![image](https://user-images.githubusercontent.com/77074682/122647124-52ed1480-d12b-11eb-9d8b-e9b2b92a681e.png)  
+### SPAM project  
+Structure of project:  
+```` 
+spam 
+     ├── spam.ipynb                                  - code for machine learning 
+```` 
+The goal was to build model for predicting spam or ham.  
 ### Avocado project  
 Structure of project:  
 ```` 
