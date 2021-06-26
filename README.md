@@ -1,12 +1,20 @@
 # ML_training_projects
 Repository for studying ML
 ## Repository description  
+* [MNN test](https://github.com/anioki/ML_training_projects#MNN-test "MNN test")
 * [fish project](https://github.com/anioki/ML_training_projects#fish-project "fish project") (picture analythe) 
 * [spam project](https://github.com/anioki/ML_training_projects#spam-project "spam-project") (text analythe)
 * [avocado project](https://github.com/anioki/ML_training_projects#avocado-project "avocado-project")  
 * [wine project](https://github.com/anioki/ML_training_projects#wine-project "wine-project")  
 * [mashroom project](https://github.com/anioki/ML_training_projects#mashroom-project "mashroom project")  
 ## Projects description 
+### MNN test  
+Structure of project:  
+```` 
+MNN_test 
+     ├── MNN_test.ipynb                              - code for testing mnn 
+```` 
+The goal was to test Mobile NN model for predicting objects from pictures.  
 ### Fish project  
 Structure of project:  
 ```` 
