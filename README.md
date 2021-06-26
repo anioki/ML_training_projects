@@ -20,6 +20,8 @@ Best CPU result:
 Best GPU result: 
 ![image](https://user-images.githubusercontent.com/77074682/122647115-47015280-d12b-11eb-8f9c-d0832de39ae1.png)  
 ![image](https://user-images.githubusercontent.com/77074682/122647124-52ed1480-d12b-11eb-9d8b-e9b2b92a681e.png)  
+
+__Upd__: test Mobile NN and compare with CNN result.
 ### SPAM project  
 Structure of project:  
 ```` 
