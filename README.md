@@ -1,13 +1,21 @@
 # ML_training_projects
 Repository for studying ML
 ## Repository description  
-* [MNN test](https://github.com/anioki/ML_training_projects#MNN-test "MNN test")
+* [cancer project](https://github.com/anioki/ML_training_projects#cancer-project "cancer-project") 
+* [MNN test](https://github.com/anioki/ML_training_projects#MNN-test "MNN test") (picture analythe)
 * [fish project](https://github.com/anioki/ML_training_projects#fish-project "fish project") (picture analythe) 
 * [spam project](https://github.com/anioki/ML_training_projects#spam-project "spam-project") (text analythe)
 * [avocado project](https://github.com/anioki/ML_training_projects#avocado-project "avocado-project")  
 * [wine project](https://github.com/anioki/ML_training_projects#wine-project "wine-project")  
 * [mashroom project](https://github.com/anioki/ML_training_projects#mashroom-project "mashroom project")  
 ## Projects description 
+### Cancer test  
+Structure of project:  
+```` 
+cancer 
+     ├──Breast Cancer.ipynb                          - code for data analysis and machine learning 
+```` 
+The goal was to test analythe data and learn boosting and compare the results. 
 ### MNN test  
 Structure of project:  
 ```` 
