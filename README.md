@@ -15,7 +15,7 @@ Structure of project:
 cancer 
      ├──Breast Cancer.ipynb                          - code for data analysis and machine learning 
 ```` 
-The goal was to test analythe data and learn boosting and compare the results. 
+The goal was to analythe data and learn boosting and compare the results. 
 ### MNN test  
 Structure of project:  
 ```` 
