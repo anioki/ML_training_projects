@@ -9,7 +9,7 @@ Repository for studying ML
 * [wine project](https://github.com/anioki/ML_training_projects#wine-project "wine-project")  
 * [mashroom project](https://github.com/anioki/ML_training_projects#mashroom-project "mashroom project")  
 ## Projects description 
-### Cancer test  
+### Cancer project   
 Structure of project:  
 ```` 
 cancer 
