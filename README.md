@@ -3,8 +3,8 @@ Repository for studying ML
 ## Repository description  
 * [cancer project](https://github.com/anioki/ML_training_projects#cancer-project "cancer-project") 
 * [MNN test](https://github.com/anioki/ML_training_projects#MNN-test "MNN test") (picture analythe)
-* [fish project](https://github.com/anioki/ML_training_projects#fish-project "fish project") (picture analythe) 
-* [spam project](https://github.com/anioki/ML_training_projects#spam-project "spam-project") (text analythe)
+* [fish project](https://github.com/anioki/ML_training_projects#fish-project "fish project") (picture analythe, CNN) 
+* [spam project](https://github.com/anioki/ML_training_projects#spam-project "spam-project") (text analythe, RNN)
 * [avocado project](https://github.com/anioki/ML_training_projects#avocado-project "avocado-project")  
 * [wine project](https://github.com/anioki/ML_training_projects#wine-project "wine-project")  
 * [mashroom project](https://github.com/anioki/ML_training_projects#mashroom-project "mashroom project")  
@@ -45,6 +45,7 @@ spam
      ├── spam.ipynb                                  - code for machine learning 
 ```` 
 Database contains text and classification. The goal was to build model for predicting spam or ham and learn steps for text analythe.  
+In branch v2  RNN was used.  
 ### Avocado project  
 Structure of project:  
 ```` 
